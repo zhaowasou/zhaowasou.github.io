@@ -3,11 +3,11 @@
   <title>小赵的个人博客</title>
   
   
-  <link href="https://zhaoya01.github.io.git/atom.xml" rel="self"/>
+  <link href="https://zhaowasou.github.io/atom.xml" rel="self"/>
   
-  <link href="https://zhaoya01.github.io.git/"/>
-  <updated>2022-01-25T09:34:09.000Z</updated>
-  <id>https://zhaoya01.github.io.git/</id>
+  <link href="https://zhaowasou.github.io/"/>
+  <updated>2022-01-28T09:15:17.505Z</updated>
+  <id>https://zhaowasou.github.io/</id>
   
   <author>
     <name>小赵</name>
@@ -17,9 +17,29 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title></title>
+    <link href="https://zhaowasou.github.io/1.html"/>
+    <id>https://zhaowasou.github.io/1.html</id>
+    <published>2022-01-28T09:13:48.898Z</published>
+    <updated>2022-01-28T09:15:17.505Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://cdn.jsdelivr.net/npm/hexo-tag-hint@0.2.1/css/hint.min.css"><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><!DOCTYPE html><html><head><title>smallyu的微博</title><meta http-equiv="content-type" content="text/html; charset=utf-8"><meta name="viewport" content="width=device-width, initial-scale=0.5"><link rel="icon" type="image/svg+xml" href="/favicon.svg"><link rel="stylesheet" href="/css/highlight/xcode.min.css"><link rel="stylesheet" href="/css/bootstrap/bootstrap-tooltips.css"><link rel="stylesheet" href="/css/bootstrap/bootstrap.min.css"><link rel="stylesheet" href="/css/bootstrap/bootstrap-theme.min.css"><link rel="stylesheet" href="/css/home.css"><script src="/js/jquery.min.js" type="31945d8a57701c4be143b98b-text/javascript"></script><meta name="generator" content="Hexo 5.2.0"><link rel="alternate" href="/atom.xml" title="smallyu" type="application/atom+xml"></head><body><script type="31945d8a57701c4be143b98b-text/javascript">if (/mobile/i.test(navigator.userAgent) || /android/i.test(navigator.userAgent)) {  document.body.classList.add('mobile')}</script><nav class="navbar navbar-default" style="opacity:.9;" role="navigation"><div class="container-fluid"><div class="navbar-header"><button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target="#navbar-bs"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a class="navbar-brand" href="/" data-toggle="tooltip" data-placement="right">smallyu的博客</a></div><div class="navbar-collapse collapse" id="navbar-bs" style="height:1px;"><ul class="nav navbar-nav navbar-right"><li><a href="/" target="_self">博客</a></li><li class="active"><a href="/micro-blog" target="_self">微博</a></li><li><a href="/about" target="_self">关于</a></li></ul></div></div></nav><div><div class="micro-blog"><div class="outer"><ul class="nav nav-tabs ul-tabs" role="tablist"><li role="presentation"><a href="#2022" aria-controls="2022" role="tab" data-toggle="tab">2022年的微博</a></li><li role="presentation"><a href="#2021" aria-controls="2021" role="tab" data-toggle="tab">2021年的微博</a></li><li role="presentation"><a href="#2020" aria-controls="2020" role="tab" data-toggle="tab">2020年的微博</a></li></ul><div class="tab-content"><div class="tab-pane" id="2022" role="tabpanel"><ul class="list-group ul-content-2022"></ul></div><div class="tab-pane" id="2021" role="tabpanel"><ul class="list-group ul-content-2021"></ul></div><div class="tab-pane" id="2020" role="tabpanel"><ul class="list-group ul-content-2020"></ul></div></div></div></div></div><script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="31945d8a57701c4be143b98b-|49" defer=""></script></body><script src="/js/highlight.min.js" type="31945d8a57701c4be143b98b-text/javascript"></script><script src="/js/main.js?v=1" type="31945d8a57701c4be143b98b-text/javascript"></script><script src="/js/bootstrap/bootstrap.min.js" type="31945d8a57701c4be143b98b-text/javascript"></script><script src="/js/micro-blog/main.js?v=1" type="31945d8a57701c4be143b98b-text/javascript"></script><script src="/js/marked.min.js" type="31945d8a57701c4be143b98b-text/javascript"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-160006603-1" type="31945d8a57701c4be143b98b-text/javascript"></script><script type="31945d8a57701c4be143b98b-text/javascript">window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-160006603-1');</script></html>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text&amp;#x2F;css&quot; href=&quot;https://cdn.jsdelivr.net/npm/hexo-tag-hint@0.2.1/css/hint.min.css&quot;&gt;&lt;link rel=&quot;stylesheet&quot; </summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>22年初色彩静物练习</title>
-    <link href="https://zhaoya01.github.io.git/17812.html"/>
-    <id>https://zhaoya01.github.io.git/17812.html</id>
+    <link href="https://zhaowasou.github.io/17812.html"/>
+    <id>https://zhaowasou.github.io/17812.html</id>
     <published>2022-01-25T09:34:09.000Z</published>
     <updated>2022-01-25T09:34:09.000Z</updated>
     
@@ -30,17 +50,17 @@
     
     
     
-    <category term="默认" scheme="https://zhaoya01.github.io.git/categories/%E9%BB%98%E8%AE%A4/"/>
+    <category term="默认" scheme="https://zhaowasou.github.io/categories/%E9%BB%98%E8%AE%A4/"/>
     
     
-    <category term="默认" scheme="https://zhaoya01.github.io.git/tags/%E9%BB%98%E8%AE%A4/"/>
+    <category term="默认" scheme="https://zhaowasou.github.io/tags/%E9%BB%98%E8%AE%A4/"/>
     
   </entry>
   
   <entry>
     <title>摄影02</title>
-    <link href="https://zhaoya01.github.io.git/65626.html"/>
-    <id>https://zhaoya01.github.io.git/65626.html</id>
+    <link href="https://zhaowasou.github.io/65626.html"/>
+    <id>https://zhaowasou.github.io/65626.html</id>
     <published>2021-08-25T15:09:31.000Z</published>
     <updated>2021-08-25T15:09:31.000Z</updated>
     
@@ -51,17 +71,17 @@
     
     
     
-    <category term="默认" scheme="https://zhaoya01.github.io.git/categories/%E9%BB%98%E8%AE%A4/"/>
+    <category term="默认" scheme="https://zhaowasou.github.io/categories/%E9%BB%98%E8%AE%A4/"/>
     
     
-    <category term="默认" scheme="https://zhaoya01.github.io.git/tags/%E9%BB%98%E8%AE%A4/"/>
+    <category term="默认" scheme="https://zhaowasou.github.io/tags/%E9%BB%98%E8%AE%A4/"/>
     
   </entry>
   
   <entry>
     <title>油画作品（部分）</title>
-    <link href="https://zhaoya01.github.io.git/65406.html"/>
-    <id>https://zhaoya01.github.io.git/65406.html</id>
+    <link href="https://zhaowasou.github.io/65406.html"/>
+    <id>https://zhaowasou.github.io/65406.html</id>
     <published>2021-05-13T05:01:12.000Z</published>
     <updated>2021-05-13T05:01:12.000Z</updated>
     
@@ -72,17 +92,17 @@
     
     
     
-    <category term="默认" scheme="https://zhaoya01.github.io.git/categories/%E9%BB%98%E8%AE%A4/"/>
+    <category term="默认" scheme="https://zhaowasou.github.io/categories/%E9%BB%98%E8%AE%A4/"/>
     
     
-    <category term="默认" scheme="https://zhaoya01.github.io.git/tags/%E9%BB%98%E8%AE%A4/"/>
+    <category term="默认" scheme="https://zhaowasou.github.io/tags/%E9%BB%98%E8%AE%A4/"/>
     
   </entry>
   
   <entry>
     <title>摄影01</title>
-    <link href="https://zhaoya01.github.io.git/24893.html"/>
-    <id>https://zhaoya01.github.io.git/24893.html</id>
+    <link href="https://zhaowasou.github.io/24893.html"/>
+    <id>https://zhaowasou.github.io/24893.html</id>
     <published>2021-03-25T08:50:23.000Z</published>
     <updated>2021-03-25T08:50:23.000Z</updated>
     
@@ -93,17 +113,17 @@
     
     
     
-    <category term="默认" scheme="https://zhaoya01.github.io.git/categories/%E9%BB%98%E8%AE%A4/"/>
+    <category term="默认" scheme="https://zhaowasou.github.io/categories/%E9%BB%98%E8%AE%A4/"/>
     
     
-    <category term="默认" scheme="https://zhaoya01.github.io.git/tags/%E9%BB%98%E8%AE%A4/"/>
+    <category term="默认" scheme="https://zhaowasou.github.io/tags/%E9%BB%98%E8%AE%A4/"/>
     
   </entry>
   
   <entry>
     <title>综合材料</title>
-    <link href="https://zhaoya01.github.io.git/60588.html"/>
-    <id>https://zhaoya01.github.io.git/60588.html</id>
+    <link href="https://zhaowasou.github.io/60588.html"/>
+    <id>https://zhaowasou.github.io/60588.html</id>
     <published>2020-12-27T15:09:31.000Z</published>
     <updated>2020-12-27T15:09:31.000Z</updated>
     
@@ -114,17 +134,17 @@
     
     
     
-    <category term="默认" scheme="https://zhaoya01.github.io.git/categories/%E9%BB%98%E8%AE%A4/"/>
+    <category term="默认" scheme="https://zhaowasou.github.io/categories/%E9%BB%98%E8%AE%A4/"/>
     
     
-    <category term="默认" scheme="https://zhaoya01.github.io.git/tags/%E9%BB%98%E8%AE%A4/"/>
+    <category term="默认" scheme="https://zhaowasou.github.io/tags/%E9%BB%98%E8%AE%A4/"/>
     
   </entry>
   
   <entry>
     <title>速写作品</title>
-    <link href="https://zhaoya01.github.io.git/60588.html"/>
-    <id>https://zhaoya01.github.io.git/60588.html</id>
+    <link href="https://zhaowasou.github.io/60588.html"/>
+    <id>https://zhaowasou.github.io/60588.html</id>
     <published>2020-12-27T15:09:31.000Z</published>
     <updated>2020-12-27T15:09:31.000Z</updated>
     
@@ -135,17 +155,17 @@
     
     
     
-    <category term="默认" scheme="https://zhaoya01.github.io.git/categories/%E9%BB%98%E8%AE%A4/"/>
+    <category term="默认" scheme="https://zhaowasou.github.io/categories/%E9%BB%98%E8%AE%A4/"/>
     
     
-    <category term="默认" scheme="https://zhaoya01.github.io.git/tags/%E9%BB%98%E8%AE%A4/"/>
+    <category term="默认" scheme="https://zhaowasou.github.io/tags/%E9%BB%98%E8%AE%A4/"/>
     
   </entry>
   
   <entry>
     <title>素描作品</title>
-    <link href="https://zhaoya01.github.io.git/270.html"/>
-    <id>https://zhaoya01.github.io.git/270.html</id>
+    <link href="https://zhaowasou.github.io/270.html"/>
+    <id>https://zhaowasou.github.io/270.html</id>
     <published>2020-12-13T09:09:11.000Z</published>
     <updated>2020-12-13T09:09:11.000Z</updated>
     
@@ -156,10 +176,10 @@
     
     
     
-    <category term="默认" scheme="https://zhaoya01.github.io.git/categories/%E9%BB%98%E8%AE%A4/"/>
+    <category term="默认" scheme="https://zhaowasou.github.io/categories/%E9%BB%98%E8%AE%A4/"/>
     
     
-    <category term="默认" scheme="https://zhaoya01.github.io.git/tags/%E9%BB%98%E8%AE%A4/"/>
+    <category term="默认" scheme="https://zhaowasou.github.io/tags/%E9%BB%98%E8%AE%A4/"/>
     
   </entry>
   
